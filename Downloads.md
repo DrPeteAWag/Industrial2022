@@ -11,18 +11,17 @@ permalink:
 
 #### Lecture Slides
 
-- Introduction [PDF](https://drive.google.com/file/d/1RvYu0ra1g1AdbY-7JU7b7aySffiJI043/view?usp=sharing)
-- Microeconomic Foundations [PDF](https://drive.google.com/file/d/1oXqYbEXJPjAA9bTtMCHroRIZ_6WcQ-7T/view?usp=sharing)
-- What is Market Power? [PDF](https://drive.google.com/file/d/1nzcTWumzy6lSqPJqbMiiiixCQCpjWdl9/view?usp=sharing)
-- Monopoly Pricing - Part I [PDF](https://vle.york.ac.uk/bbcswebdav/pid-3797518-dt-content-rid-10427151_2/xid-10427151_2) 
-- Monopoly Pricing - Part II [PDF](https://drive.google.com/open?id=1UtBZ5Mh7GmNneX9oositnyawif8c5QVi&authuser=peter.wagner%40york.ac.uk&usp=drive_fs) 
--  Oligopoly & Cartels [PDF]()
-
+- Introduction [PDF](https://drive.google.com/uc?export=download&id=1RvYu0ra1g1AdbY-7JU7b7aySffiJI043)
+- Microeconomic Foundations [PDF](https://drive.google.com/uc?export=download&id=1oXqYbEXJPjAA9bTtMCHroRIZ_6WcQ-7T)
+- What is Market Power? [PDF](https://drive.google.com/uc?export=download&id=1nzcTWumzy6lSqPJqbMiiiixCQCpjWdl9)
+- Exercises & Solutions: Microeconomic Foundations [PDF](https://drive.google.com/uc?export=download&id=1te_hUlCU3LxRIeUQ1gBULrF9y2UVd1mc)
+- Monopoly Pricing - Part I [PDF](https://drive.google.com/uc?export=download&id=1lz0arnrdjyPgNB9dsqSneRjKB1VGy4VL) 
+- Monopoly Pricing - Part II [PDF]()
 
 
 #### Exercise
-- Microeconomic Foundations [PDF](https://drive.google.com/file/d/1teYrPqMMTB_fvxWQr_9j_E2DR9QAEB8P/view?usp=sharing)
-- Monopoly Pricing [PDF](https://drive.google.com/open?id=1teYrPqMMTB_fvxWQr_9j_E2DR9QAEB8P&authuser=peter.wagner%40york.ac.uk&usp=drive_fs)
+- Microeconomic Foundations [PDF](https://drive.google.com/uc?export=download&id=1te_hUlCU3LxRIeUQ1gBULrF9y2UVd1mc)
+- Monopoly Pricing [PDF](https://drive.google.com/file/d/1teYrPqMMTB_fvxWQr_9j_E2DR9QAEB8P/view?usp=sharing)
 - Oligopoly & Cartels [PDF]()
 
 
