@@ -19,7 +19,7 @@ permalink:
 - Monopoly Pricing - Part II [PDF]()
 
 
-#### Exercise
+#### Exercises
 - Microeconomic Foundations [PDF](https://drive.google.com/uc?export=download&id=1te_hUlCU3LxRIeUQ1gBULrF9y2UVd1mc)
 - Monopoly Pricing [PDF](https://drive.google.com/uc?export=download&id=1teYrPqMMTB_fvxWQr_9j_E2DR9QAEB8P)
 - Oligopoly & Cartels [PDF]()
