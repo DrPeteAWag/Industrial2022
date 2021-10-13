@@ -11,8 +11,6 @@ permalink:
 
 #### Lecture Slides
 
-- Introduction [PDF](https://drive.google.com/uc?export=download&id=1RvYu0ra1g1AdbY-7JU7b7aySffiJI043)
-- Microeconomic Foundations [PDF](https://drive.google.com/uc?export=download&id=1oXqYbEXJPjAA9bTtMCHroRIZ_6WcQ-7T)
 - 1 What is Market Power? [PDF](https://drive.google.com/uc?export=download&id=1nzcTWumzy6lSqPJqbMiiiixCQCpjWdl9)
 - 2 Monopoly Pricing - Part I [PDF](https://drive.google.com/uc?export=download&id=1lz0arnrdjyPgNB9dsqSneRjKB1VGy4VL) 
 - 3 Monopoly Pricing - Part II [PDF]()
