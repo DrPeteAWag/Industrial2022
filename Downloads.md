@@ -12,8 +12,9 @@ permalink:
 #### Lecture Slides
 
 - 1 What is Market Power? [PDF](https://drive.google.com/uc?export=download&id=1nzcTWumzy6lSqPJqbMiiiixCQCpjWdl9)
-- 2 Monopoly Pricing - Part I [PDF](https://drive.google.com/uc?export=download&id=1lz0arnrdjyPgNB9dsqSneRjKB1VGy4VL) 
-- 3 Monopoly Pricing - Part II [PDF]()
+- 2 Monopoly Pricing [PDF](https://drive.google.com/uc?export=download&id=1YCEeTWpYr1MxMs9yHpzlmRsfVg7tdDCI) 
+
+
 
 
 #### Exercises
