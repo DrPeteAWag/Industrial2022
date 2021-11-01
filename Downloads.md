@@ -28,4 +28,3 @@ permalink:
 
 - Problem Set 1 with solutions [PDF](https://drive.google.com/uc?export=download&id=1J1_Z-QH9HU2yLCzSw8YLrldI8iFKKMsH)
 - Problem Set 2 [PDF](https://drive.google.com/uc?export=download&id=1K36tGJhqiKuNdd7npoLAzUj5utPC1nJ6)
-- Problem Set 2 [PDF](https://drive.google.com/file/d/1K36tGJhqiKuNdd7npoLAzUj5utPC1nJ6/view?usp=sharing)
