@@ -21,7 +21,7 @@ permalink:
 #### Exercises
 - Microeconomic Foundations with Solutions [PDF](https://drive.google.com/uc?export=download&id=1te_hUlCU3LxRIeUQ1gBULrF9y2UVd1mc)
 - Monopoly Pricing [PDF](https://drive.google.com/uc?export=download&id=1teYrPqMMTB_fvxWQr_9j_E2DR9QAEB8P) ([Solutions](https://drive.google.com/uc?export=download&id=13IB6iMtSnq6s0XkStp1eyb0UmuVDAaE5))
-- Oligopoly [PDF](https://drive.google.com//uc?export=download&id=1tpM6uSbXxFPydrRzC3yDALL4-vh-wY1f)
+- Oligopoly [PDF](https://drive.google.com//uc?export=download&id=1tpM6uSbXxFPydrRzC3yDALL4-vh-wY1f) ([Solutions](https://drive.google.com/uc?export=download&id=1ayjIqvsLOzIR7SRHv87aCb8sMTj1XjXT))
 
 
 #### Problem Sets
