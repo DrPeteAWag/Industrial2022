@@ -1,3 +1,4 @@
+.
 ---
 layout: page
 title: Downloads
@@ -26,12 +27,6 @@ permalink:
 
 
 #### Problem Sets
-
-1. Problem Set 1 [PDF](https://drive.google.com/uc?export=download&id=1IqpjAYstS5wHRGFn-GpHoDWQcpWOD5ga)
-2. Problem Set 2 [PDF](https://drive.google.com/uc?export=download&id=1JmNIVUGSsoYbcjjdLb8H3dYkKK0_HKHh)
-3. Problem Set 3 [PDF](https://drive.google.com/uc?export=download&id=1uKNi2Gi_bj1ktUI5OT5WiP3FSsEtl63Q)
-
-#### Problem Set Solutions
 
 1. Problem Set 1 with solutions [PDF](https://drive.google.com/uc?export=download&id=1J1_Z-QH9HU2yLCzSw8YLrldI8iFKKMsH)
 2. Problem Set 2 with solutions [PDF](https://drive.google.com/uc?export=download&id=1K36tGJhqiKuNdd7npoLAzUj5utPC1nJ6)
