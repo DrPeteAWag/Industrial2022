@@ -1,68 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-14T10:04:09+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Industrial Economics, 2021/2022</title><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><entry><title type="html">2nd week: Monopoly Pricing I</title><link href="http://localhost:4000/2021/10/09/week2.html" rel="alternate" type="text/html" title="2nd week: Monopoly Pricing I" /><published>2021-10-09T00:00:00+01:00</published><updated>2021-10-09T00:00:00+01:00</updated><id>http://localhost:4000/2021/10/09/week2</id><content type="html" xml:base="http://localhost:4000/2021/10/09/week2.html">&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Lecture Material for this week:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Slides: Monopoly Pricing - Part I &lt;a href=&quot;https://drive.google.com/uc?export=download&amp;amp;id=1lz0arnrdjyPgNB9dsqSneRjKB1VGy4VL&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Exercises: Monopoly Pricing (Ex. 1 to 3)  &lt;a href=&quot;https://drive.google.com/uc?export=download&amp;amp;id=1teYrPqMMTB_fvxWQr_9j_E2DR9QAEB8P&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Solutions to the exercises &lt;a href=&quot;https://drive.google.com/uc?export=download&amp;amp;id=13IB6iMtSnq6s0XkStp1eyb0UmuVDAaE5]\&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
-&lt;p&gt;Last week, I told you about what constitutes a market, and about the possible sources of market power. This week, you will learn how market power can be exploited to &quot;extract surplus&quot; from consumers, by using price discrimination, that often involves elaborate pricing schemes that are designed to increase the profits of the producer. Those pricing schemes can be bad for consumers, but they might also benefits. We will look at specific models that clarify the pro and cons.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Exercises&lt;/strong&gt;:  1 to 3 in the &lt;a href=&quot;https://drive.google.com/uc?export=download&amp;amp;id=1teYrPqMMTB_fvxWQr_9j_E2DR9QAEB8P&quot;&gt;exercise set&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Readings&lt;/strong&gt; (supplementary, not mandatory)
-    &lt;ul&gt;
-      &lt;li&gt;Pepall et al., Chpt. 5&lt;/li&gt;
-      &lt;li&gt;Belleflamme &amp;amp; Peitz, Chpt. 8.1 &amp;amp; 8.2&lt;/li&gt;
-      &lt;li&gt;Perloff, Chpt 4.&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Learning Objectives&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Recall the principles of uniform pricing in a monpoly&lt;/li&gt;
-      &lt;li&gt;Understand the effects of &quot;fringe competition&quot; in a near monopoly&lt;/li&gt;
-      &lt;li&gt;Identify the advantage &amp;amp; disadvantage of group pricing for consumers&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-&lt;h2 id=&quot;lectures&quot;&gt;Lectures:&lt;/h2&gt;
-
-&lt;h4 id=&quot;1-uniform-pricing-in-a-monopoly&quot;&gt;1. Uniform pricing in a monopoly&lt;/h4&gt;
-&lt;p&gt;&lt;iframe width=&quot;600&quot; height=&quot;338&quot; style=&quot;border: 1px solid #464646;&quot; src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=91599310-ee43-486e-be01-ac4f00792f01&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;start=0&amp;amp;interactivity=all&quot; allowfullscreen=&quot;allowfullscreen&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;2-uniform-pricing-in-a-near-monopoly&quot;&gt;2. Uniform pricing in a near monopoly&lt;/h4&gt;
-&lt;p&gt;&lt;iframe width=&quot;600&quot; height=&quot;338&quot; style=&quot;border: 1px solid #464646;&quot; src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0fb7802f-ad9e-4216-844f-ac4e0132fd25&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;start=0&amp;amp;interactivity=all&quot; allowfullscreen=&quot;allowfullscreen&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;3-group-pricing&quot;&gt;3. Group pricing&lt;/h4&gt;
-
-&lt;p&gt;&lt;iframe width=&quot;600&quot; height=&quot;338&quot; style=&quot;border: 1px solid #464646;&quot; src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=f4b54294-8db4-4072-b6fe-ac51015864e6&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;start=0&amp;amp;interactivity=all&quot; allowfullscreen=&quot;allowfullscreen&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">Lecture Material for this week:</summary></entry><entry><title type="html">1st week: Market Power and Market Structure</title><link href="http://localhost:4000/2021/10/02/week1.html" rel="alternate" type="text/html" title="1st week: Market Power and Market Structure" /><published>2021-10-02T00:00:00+01:00</published><updated>2021-10-02T00:00:00+01:00</updated><id>http://localhost:4000/2021/10/02/week1</id><content type="html" xml:base="http://localhost:4000/2021/10/02/week1.html">&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Downloads:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Slides: What is Market Power? &lt;a href=&quot;https://drive.google.com/uc?export=download&amp;amp;id=1nzcTWumzy6lSqPJqbMiiiixCQCpjWdl9&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Exercises &amp;amp; Solutions: Microeconomic Foundations &lt;a href=&quot;https://drive.google.com/uc?export=download&amp;amp;id=1te_hUlCU3LxRIeUQ1gBULrF9y2UVd1mc&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-03T19:07:39+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Industrial Economics, 2021/2022</title><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><entry><title type="html">2nd week: Market Power and Market Structure</title><link href="http://localhost:4000/2022/10/10/week2.html" rel="alternate" type="text/html" title="2nd week: Market Power and Market Structure" /><published>2022-10-10T00:00:00+01:00</published><updated>2022-10-10T00:00:00+01:00</updated><id>http://localhost:4000/2022/10/10/week2</id><content type="html" xml:base="http://localhost:4000/2022/10/10/week2.html">&lt;h3 id=&quot;overview&quot;&gt;Overview&lt;/h3&gt;
 
 &lt;p&gt;This week is mainly concerned with a general introduction, revision of some tools of microeconomics from your first and second year, as well as a discussion of the nature of market power. Please watch all videos from the following sections.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Lecture Slides:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;What is Market Power? &lt;a href=&quot;https://drive.google.com/uc?export=download&amp;amp;id=1nzcTWumzy6lSqPJqbMiiiixCQCpjWdl9&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Readings:&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;Pepall et. al., Part 1&lt;/li&gt;
       &lt;li&gt;Belleflamme &amp;amp; Peitz, Chpt.1 &amp;amp; 2&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.101.3.558&quot;&gt;The Lerner Index of Monopoly Power: Origins and Uses&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -80,7 +37,10 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;hr /&gt;
+
 &lt;h3 id=&quot;lecture-videos&quot;&gt;Lecture videos:&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;Market Power and Market Structure&lt;/strong&gt;&lt;/p&gt;
@@ -88,26 +48,32 @@
 
 &lt;p&gt;&lt;strong&gt;Sources of Market Power&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;iframe width=&quot;720&quot; height=&quot;405&quot; style=&quot;border: 1px solid #464646;&quot; src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=8611f02a-9798-4a7a-a0ba-ac4a01181869&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;start=0&amp;amp;interactivity=all&quot; allowfullscreen=&quot;allowfullscreen&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">Downloads:</summary></entry><entry><title type="html">Introduction &amp;amp; Review</title><link href="http://localhost:4000/2021/09/25/week0.html" rel="alternate" type="text/html" title="Introduction &amp;amp; Review" /><published>2021-09-25T00:00:00+01:00</published><updated>2021-09-25T00:00:00+01:00</updated><id>http://localhost:4000/2021/09/25/week0</id><content type="html" xml:base="http://localhost:4000/2021/09/25/week0.html">&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Downloads:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;720&quot; height=&quot;405&quot; style=&quot;border: 1px solid #464646;&quot; src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=8611f02a-9798-4a7a-a0ba-ac4a01181869&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;start=0&amp;amp;interactivity=all&quot; allowfullscreen=&quot;allowfullscreen&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">Overview</summary></entry><entry><title type="html">1st week: Introduction &amp;amp; Review</title><link href="http://localhost:4000/2022/10/03/week1.html" rel="alternate" type="text/html" title="1st week: Introduction &amp;amp; Review" /><published>2022-10-03T00:00:00+01:00</published><updated>2022-10-03T00:00:00+01:00</updated><id>http://localhost:4000/2022/10/03/week1</id><content type="html" xml:base="http://localhost:4000/2022/10/03/week1.html">&lt;p&gt;This week is mainly a general introduction and a revision of some tools of microeconomics from your first and second year, as well as a discussion of the nature of market power. Please watch all videos from the following sections.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Slides: Introduction &lt;a href=&quot;https://drive.google.com/uc?export=download&amp;amp;id=1RvYu0ra1g1AdbY-7JU7b7aySffiJI043&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Slides: Microeconomic Foundations &lt;a href=&quot;https://drive.google.com/uc?export=download&amp;amp;id=1oXqYbEXJPjAA9bTtMCHroRIZ_6WcQ-7T&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Exercises: Microeconomic Foundations &lt;a href=&quot;https://drive.google.com/uc?export=download&amp;amp;id=1te_hUlCU3LxRIeUQ1gBULrF9y2UVd1mc&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Lecture Slides:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Introduction &lt;a href=&quot;https://drive.google.com/uc?export=download&amp;amp;id=1RvYu0ra1g1AdbY-7JU7b7aySffiJI043&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr /&gt;
-
-&lt;p&gt;This week is mainly a general introduction and a revision of some tools of microeconomics from your first and second year, as well as a discussion of the nature of market power. Please watch all videos from the following sections.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Readings:&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;Pepall et. al., Part 1&lt;/li&gt;
-      &lt;li&gt;Belleflamme &amp;amp; Peitz, Chpt.1&amp;amp;2&lt;/li&gt;
+      &lt;li&gt;Belleflamme &amp;amp; Peitz, Chpt. 1 &amp;amp; 2&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Learning Objectives for this week:&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;Understand the purpose of industrial economics and its historical development&lt;/li&gt;
@@ -116,14 +82,21 @@
       &lt;li&gt;Identify the origin of market power&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;In the news: The Judiciary Committee&apos;s of the US House of Representatives releases &quot;Antitrust Report&quot; on Big Tech&lt;/strong&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;In the news:&lt;/strong&gt;
     &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.washingtonpost.com/outlook/2020/10/08/congress-big-tech-anti-trust/&quot;&gt;Washington Post&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/2020/10/07/technology/congress-big-tech.html&quot;&gt;New York Times&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/technology-54444633&quot;&gt;BBC&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.reuters.com/technology/eu-courts-wed-ruling-record-44-bln-google-fine-may-set-precedent-2022-09-14/&quot;&gt;Google loses challenge against EU antitrust decision, other probes loom (Reuters)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.bloomberg.com/news/articles/2022-09-06/tech-giants-spree-leaves-antitrust-bill-on-brink-of-defeat&quot;&gt;Big Tech’s $95 Million Spending Spree Leaves Antitrust Bill on Brink of Defeat&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.cnbc.com/2022/09/22/uks-ofcom-probes-amazon-microsoft-and-google-over-cloud-dominance.html&quot;&gt;Amazon, Microsoft and Google face UK probe over dominance in cloud computing&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h3 id=&quot;lecture-videos&quot;&gt;Lecture videos:&lt;/h3&gt;
@@ -135,4 +108,4 @@
 &lt;p&gt;&lt;iframe width=&quot;720&quot; height=&quot;405&quot; style=&quot;border: 1px solid #464646;&quot; src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=09c8e9f7-8cb5-4de8-a996-ac4500d348f4&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;start=0&amp;amp;interactivity=all&quot; allowfullscreen=&quot;allowfullscreen&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;3. Game Theory: Extensive Games&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width=&quot;720&quot; height=&quot;405&quot; style=&quot;border: 1px solid #464646;&quot; src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=01b99d38-b6fb-4a42-b9d1-ac4a00b60cd7&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;start=0&amp;amp;interactivity=all&quot; allowfullscreen=&quot;allowfullscreen&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">Downloads:</summary></entry></feed>
+&lt;p&gt;&lt;iframe width=&quot;720&quot; height=&quot;405&quot; style=&quot;border: 1px solid #464646;&quot; src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=01b99d38-b6fb-4a42-b9d1-ac4a00b60cd7&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;start=0&amp;amp;interactivity=all&quot; allowfullscreen=&quot;allowfullscreen&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">This week is mainly a general introduction and a revision of some tools of microeconomics from your first and second year, as well as a discussion of the nature of market power. Please watch all videos from the following sections.</summary></entry></feed>
